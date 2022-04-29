@@ -5,6 +5,10 @@
 <img src=./src/MD-MEDIA/jane.jpg sizealt="JPEG" width="250" height="250"/>
 </p>
 
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=black&lines=USED;LANGUAGE)](https://git.io/typing-svg)
+
+ </a>
+</p>
 
 <p align="center">
 <a href="https://github.com/Itsme-soman"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=LANGUAGE&message=ENGLISH&color=red"></a>
