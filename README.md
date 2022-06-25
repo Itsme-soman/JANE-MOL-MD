@@ -2,7 +2,7 @@
 
 <div align="center">
   <p align="center">
-<img src=./src/MD-MEDIA/jane.jpg sizealt="JPEG" width="250" height="250"/>
+<img src=./media/jane.jpg sizealt="JPEG" width="250" height="250"/>
 </p>
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=000000&lines=THIS+LANGUAGE;IS+USED;IN+THIS+REPOSITORY)](https://git.io/typing-svg)
