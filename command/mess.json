@@ -9,5 +9,5 @@
     "GrupAdmin": "This command can only be used by Group Admin",
     "BotAdmin": "Bot Must be admin",
     "OnlyOwner": "This command can only be used by the bot owner",
-    "OnlyPrem": "Perintah ini khusus member premium"
+    "OnlyPrem": "This order is only for premium members"
 }
