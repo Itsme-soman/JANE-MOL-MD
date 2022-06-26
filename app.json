@@ -2,7 +2,7 @@
   "name": "JANE-MOL-MD",
   "description": "whatsapp multi device whatsapp bot build with nodejs",
   "repository": "https://github.com/TOXIC-KICHU/JANE-MOL-MD",
-  "logo": "https://pbs.twimg.com/media/FO7fojOakAAyYgt?format=jpg&name=900x900",
+  "logo": "https://telegra.ph/file/b62a0838ef24813713998.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
