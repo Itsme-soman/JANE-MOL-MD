@@ -6,7 +6,7 @@
     },
     "OnlyGrup": "This command can only be used in groups",
     "OnlyPM": "This command can only be used in private messages",
-    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "GrupAdmin": "This command can only be used by Group Admin",
     "BotAdmin": "Bot Harus menjadi admin",
     "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
     "OnlyPrem": "Perintah ini khusus member premium"
