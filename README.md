@@ -45,3 +45,8 @@
 <a href="https://github.com/Itsme-soman/JANE-MOL-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Itsme-soman/JANE-MOL-MD?label=FORKS&color=red&style=flat-square"></a>
 <a href="https://github.com/Itsme-soman/JANE-MOL-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itsme-soman/JANE-MOL-MD?label=WATCHERS&color=red&style=flat-square"></a>
 </p>
+
+
+#Deploying
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TOXIC-KICHU/JANE-MOL-MD)
