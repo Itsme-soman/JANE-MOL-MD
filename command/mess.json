@@ -2,7 +2,7 @@
     "wait": "```Proses kak!```",
     "error": {
         "Iv": "The link you provided is not valid",
-        "api": "Maaf terjadi kesalahan"
+        "api": "Sorry an error occurred"
     },
     "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
     "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
